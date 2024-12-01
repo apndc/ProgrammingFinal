@@ -1,0 +1,4 @@
+Order Total (with tax) = $ 69.30
+Order Total (with tax) = $ 75.60
+Total Cost (all orders) = $ 144.90
+Average Cost of Bill = $ 72.45

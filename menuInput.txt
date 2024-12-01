@@ -1,0 +1,3 @@
+Sandwich,8
+Pizza,10
+Salad,6
